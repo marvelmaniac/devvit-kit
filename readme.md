@@ -80,7 +80,7 @@ Once issues are added to our internal tracking system, they will be labeled as â
 ## Security issues
 
 Security issues take special priority and are handled separately from our public tracker
-via [Hackerone](https://www.hackerone.com/).
+via [Hackerone](https://hackerone.com/reddit?type=team).
 Please do not submit security issues here on GitHub, as all issues are public and publishing them increases the risk of
 abuse.
 
